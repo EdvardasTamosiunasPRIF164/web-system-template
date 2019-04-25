@@ -26,13 +26,13 @@ and their live prices
 - [ ] TWO PAGES:
 
 - [ ] First page:
-        Search for a coin,
-      - [ ] new: search for a crypto coin,
-      - [ ] Target: specify target coin currency,
-      - [ ]  Add: Add a coin to the watchlist.
+     Search for a coin,
+   - [ ] new: search for a crypto coin,
+   - [ ] Target: specify target coin currency,
+   - [ ] Add: Add a coin to the watchlist.
        
 - [ ] Second page:
-  coin watchlists,
+    coin watchlists,
   - [ ] Create: Create a watchlist,
   - [ ] Search: add a new coin to the watchlist,
   - [ ] Edit: Specify target currency for a specified coin,
