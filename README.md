@@ -20,7 +20,7 @@ and their live prices
 - [ ] Create a coin watchlist. Method POST, /watchlist/{id} | error code 202 (Invalid currency simbols)
 - [ ] add a coin to the watchlist. Method PUT, /watchlist/coin/{id} | error code 202 (Invalid currency simbols)
 - [ ] Change target currencies, Method PUT, /watchlist/target/{id} | error code 404 | error code 202 (Invalid currency simbols)
-- [ ] Delete a coin from the watchlist. Method DELETE, /list/{id} | error code 404, 202 (Invalid currency simbols)
+- [ ] Delete a coin from the watchlist. Method DELETE, /watchlist/{id} | error code 404, 202 (Invalid currency simbols)
 
 ## UI definition
 - [ ] TWO PAGES:
