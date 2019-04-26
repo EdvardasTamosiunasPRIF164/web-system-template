@@ -10,7 +10,7 @@ and their live prices
 - [ ] Symbols: Coin symbol, mandatory (Number 0 < symbols < 4 characters)
 - [ ] Name: CoinName, mandatory (String < 100 characters)
 - [ ] TimeStamp: Time stamp when info was received, mandatory (number < 11 characters)
-- [ ] Target: Live price USD, mandatory (number < 8 chars)
+- [ ] Target: Live price in selected target currency, mandatory (number < 8 chars)
 - [ ] PriceBTC: Live price BTC, mandatory (number < 8 chars)
 - [ ] Cap: Coin cap rate, mandatory (number < 100 chars)
 - [ ] vol: Coin volume rate, mandatory (number < 100 chars)
