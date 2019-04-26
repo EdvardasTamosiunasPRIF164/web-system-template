@@ -2,7 +2,7 @@
 - [ ] COIN TRACKER powered by CoinLayer
 
 ## Description
-- [ ] Provides information about selected crypto coin live price, shows the list of added crypto coins
+- [ ] Provides information about selected crypto coin live price, shows one or more watchlists of added crypto coins
 and their live prices
 
 ## COIN WATCHLIST
