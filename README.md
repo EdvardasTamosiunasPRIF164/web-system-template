@@ -36,7 +36,6 @@ and their live prices
   - [ ] Create: Create a watchlist,
   - [ ] Search: add a new coin to the watchlist,
   - [ ] Edit: Specify target currency for a specified coin,
-  - [ ] Edit: Edit watchlist (delete coins from the list),
   - [ ] Delete: Delete a coin from the watchlist
   
   
